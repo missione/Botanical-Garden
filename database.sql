@@ -92,6 +92,13 @@ Insert into employee VALUES('11','jim','1,2,3',3);
 Insert into employee VALUES('12','david','2,5,7',3);
 Insert into employee VALUES('13','john','8,9,5,4',4);
 Insert into employee VALUES('14','andy','6',1);
+Insert into employee VALUES('15','johny','12',1);
+Insert into employee VALUES('16','steven','1,4',2);
+Insert into employee VALUES('17','kate','4,11',2);
+Insert into employee VALUES('18','loila','10,9',2);
+Insert into employee VALUES('19','peter','13,14,6',3);
+Insert into employee VALUES('20','jim','8,9,5',3);
+Insert into employee VALUES('21','katie','10,12,13,14',4);
 
 Select * from employee;
 
