@@ -24,12 +24,6 @@ carpel VARCHAR(30),
 fruit_type VARCHAR(30),
 PRIMARY KEY (carpel,ovary_type)
 );
-Drop table plant_detail;
-Drop table fruit;
-Drop table characterstics;
-Drop table maintainance;
-Drop table employee;
-Drop table custumer;
 
 create table maintainance(
 family_name VARCHAR(10),
